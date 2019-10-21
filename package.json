@@ -1,0 +1,25 @@
+{
+  "name": "donationalertsnotificationbot",
+  "version": "1.0.0",
+  "description": "simple donationalerts.com bot that sends notifications(messages) about donations to twitch chat",
+  "main": "main.js",
+  "dependencies": {
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0",
+    "twitch-js": "^2.0.0-beta.30"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agantor/DonationAlertsNotificationBot.git"
+  },
+  "author": "Agantor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agantor/DonationAlertsNotificationBot/issues"
+  },
+  "homepage": "https://github.com/Agantor/DonationAlertsNotificationBot#readme"
+}
