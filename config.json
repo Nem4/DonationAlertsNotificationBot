@@ -1,0 +1,23 @@
+{
+    "token": "",
+    "username": "",
+    "channels": [
+        {
+            "username": "test_user_AgantorGitDonationAlertNotificationBot",
+            "api_key": "",
+            "phrases": [
+                "/me {username} donated {amount}{currency} and left message: {message} Kappa"
+            ]
+        },
+        {
+            "username": "second_test_user_AgantorGitDonationAlertNotificationBot",
+            "api_key": "",
+            "phrases": [
+            ]
+        }
+    ],
+    "default_phrases":
+    [
+        "/me {username} donated {amount}{currency} and said '{message}'"
+    ]
+}
